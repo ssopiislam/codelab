@@ -19,7 +19,7 @@ public class Main {
             }
 
             System.out.println("Valid! Angka Positif: " + angka);
-            System.out.print("hasil berhasil diinput");
+            System.out.print("hasil berhasil dimasukan");
 
         } catch (InvalidNumberException e) {
             System.out.println(e.getMessage());
